@@ -1,10 +1,8 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Titouan</h1>
-<h4 align="center">a student developer at Paul Sabatier university, see my <a href="https://github.com/titoutan/titoutan/blob/main/Titouan_BRANDO_CV.pdf" target="_blank">resume</a> (french) for more</h4>
-</div>
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+<h1 align="center">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Titouan+BRANDO...;Nice+to+meet+you!&center=true&size=26">
+</h1>
+<h3 align="center">Titouan BRANDO, a student developer at Paul Sabatier university, see my <a href="https://github.com/titoutan/titoutan/blob/main/Titouan_BRANDO_CV.pdf" target="_blank">resume</a> (french) for more</h3>
 </div>
 
 <details>
@@ -41,7 +39,7 @@
     <details open>
   <summary><h3>stasistic</h3></summary>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
+          <a href="https://github.com/titoutan/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=titoutan&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=titoutan&theme=gruvbox&hide_border=true" />
           </a>
@@ -53,7 +51,3 @@
 </details>
 <br/>
 </details> 
-
------
-Credits: [1999AZZAR](https://github.com/1999AZZAR)
-Last Edited on: 23/09/2022
