@@ -51,5 +51,14 @@
 </details>
 <br/>
 <!--START_SECTION:waka-->
+
+```txt
+Blade Template    5 hrs 18 mins   ██████████▒░░░░░░░░░░░░░░   41.62 %
+PHP               2 hrs 31 mins   █████░░░░░░░░░░░░░░░░░░░░   19.85 %
+Java              1 hr 37 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
+Markdown          47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+YAML              46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+```
+
 <!--END_SECTION:waka-->
 </details> 
