@@ -54,11 +54,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java                   1 hr 6 mins     ████████████▒░░░░░░░░░░░░   49.96 %
-PHP                    59 mins         ███████████▒░░░░░░░░░░░░░   44.69 %
-XML                    5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-Kotlin                 1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
