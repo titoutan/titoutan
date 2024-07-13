@@ -54,7 +54,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++    52 mins         ███████████████████████░░   91.98 %
+Bash   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
 ```
 
 <!--END_SECTION:waka-->
