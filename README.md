@@ -49,13 +49,4 @@
   </div>  
 </details>
 </details>
-<br/>
-        I am currently working on the design of a website, hence my wakatime of the week will not be accurate
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 </details> 
